@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 TransitionalN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Charlie Tsai</title>
+    <link rel="stylesheet" type="text/css" href="MenuStyling.css" />
+    <script type="text/javascript" src="MenuBehavior.js"></script> 
+    <link rel="stylesheet" type="text/css" href="style.css" />        
+</head>
+<body style="margin-top:0px;padding-top:0px;">
+	﻿<div class="header" style="margin-top:0px;padding-top:0px;">
+    <a href="http://suncat.slac.stanford.edu/"><img src="images/SUNCAT-faculty-Logo.gif" style="position:relative; top:0px; left:18px" height="48px" title="SUNCAT Logo - SLAC" alt="SUNCAT Logo"></a>
+</div>
+
+<!-- Start Top Navigation Menu -->
+<ul id="qm0" class="qmmc">
+	<li></li>
+</ul>
+<!-- End Top Navigation Menu -->
+  
+    <div class="body_content">
+	    <div class="navigation">
+	    	﻿<!-- Start Left Navigation Menu -->
+<ul id="qm1" class="qmmc">
+	<li><a href="http://suncat.slac.stanford.edu/default.asp">SUNCAT Home</a></li>
+	<li><a href="CV.pdf">Curriculum Vitae</a></li>
+	<!--<li><a href="reports.shtml">Recent Reports & Talks</a></li>-->
+</ul>
+
+<!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click (options: 'all' * 'all-always-open' * 'main' * 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
+<script type="text/javascript">qm_create(1,true,0,500,false,false,false,false,false);</script>
+
+<!-- End Left Navigation Menu -->
+
+
+	    </div>	    
+
+        <div class="page_content home">
+
+
+
+		
+		<div style="border-bottom:solid 0px #CCCCCC;margin-bottom:30px;">
+			
+			<p><img src="images/suncat_page.jpg" width="180px;" style="margin-bottom:10px;"><br />
+			<span style="color:#990000;font-size:15px;font-weight:bold;">Charlie Tsai</span><br />
+			Ph.D. Candidate in Chemical Engineering<br />
+			SUNCAT<br />
+			SLAC National Accelerator Laboratory<br />
+			Stanford University <br />
+			</p>
+			
+			<p style="margin-top:25px;"><b>EDUCATION:</b></p>
+		    <p>B.S., 2012, Chemical Engineering, Northwestern University <br />
+						 Minor in Philosophy </p>
+			
+
+<!--			<p style="margin-top:25px;"><b>PROFESSIONAL ACEDEMIC HISTORY:</b></p>
+		    <p style="line-height:10px;">
+				<ul>
+					<li>Item 1 goes here, Institution Name, Year.</li>
+					<li>Item 2 goes here, Institution Name, Year.</li>
+					<li>Item 3 goes here, Institution Name, Year.</li>
+				</ul>
+-			</p>-->
+
+			<p style="margin-top:25px;"><b>AWARDS AND HONORS:</b></p>
+		    <p style="line-height:10px;">
+				<ul>
+					<li>NSF Graduate Research Fellowship (2013)</li>
+				</ul>
+			</p>
+
+
+			<p style="margin-top:25px;"><b>RESEARCH AREAS:</b></p>
+		    <p style="line-height:10px;">
+				<ul>
+				<li>Density functional theory study of layered transition metal dichalcogenide catalysts for hydrogen evolution (HER) and hydrodesulfurization (HDS).</li>
+				</ul>
+			</p>
+		</div>
+		
+
+
+		
+	    </div>
+	    
+    	<div class="contactRightHandNavOutterDiv">
+
+    		<div class="contactRightHandHeader">CONTACT INFORMATION</div>
+
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Email: <a href="mailto:ctsai89@stanford.edu">ctsai89@stanford.edu</a>
+			</div>
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Phone: (847) 859-9120
+			</div>
+		</div>
+
+    </div>
+    
+    
+    ﻿<br style="clear:both;padding-top:30px;" />
+<!-- SLAC Global Footer -->
+<div style="text-align:left;padding-left:7px;padding-top:0px;padding-bottom:10px;"><a href="http://www.stanford.edu" target="_blank"><img src="images/stanford-logo-leftnav.gif"></a></div>
+
+<script type="text/javascript">
+<!--
+    slac_search_and_links = "no";
+    search_default = "people";
+    custom_search = "no";
+    custom_search_type = "";
+    custom_search_label = "";
+    slac_footer = "yes";
+//-->
+</script>
+<script type="text/javascript" src="http://www-project.slac.stanford.edu/centralNav/slac_global_090212.js"></script>
+
+
+<div class="footer">
+    <a href="http://www6.slac.stanford.edu/Privacy.aspx">Privacy Statement</a>    
+</div>
+ 
+</body>
+</html>

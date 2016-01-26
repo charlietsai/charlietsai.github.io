@@ -1,0 +1,281 @@
+﻿/*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/
+.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmclear {font-size:1px;height:0px;width:0px;clear:left;line-height:0px;display:block;float:none !important;}.qmmc {position:relative;zoom:1;z-index:9;}.qmmc a, .qmmc li {float:left;display:block;white-space:nowrap;position:relative;z-index:1;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc .qmcbox{cursor:default;display:block;position:relative;z-index:1;}.qmmc .qmcbox a{display:inline;}.qmmc .qmcbox div{float:none;position:static;visibility:inherit;left:auto;}.qmmc li {z-index:auto;}.qmmc ul {left:-10000px;position:absolute;z-index:10;}.qmmc, .qmmc ul {list-style:none;padding:0px;margin:0px;}.qmmc li a {float:none}.qmmc li:hover>ul{left:auto;}#qm0 ul {top:100%;}#qm0 ul li:hover>ul{top:0px;left:100%;}#qm1 li {float:none;}#qm1 li:hover>ul{top:0px;left:100%;}
+
+
+/*!!!!!!!!!!! QuickMenu Styles [Please Modify!] !!!!!!!!!!!*/
+
+
+	/* QuickMenu 0 */
+
+	/*"""""""" (MAIN) Container""""""""*/	
+	#qm0	
+	{	
+		width:100%;
+		min-width: 1010px;
+		height:30px;
+		background-color:#E4E4E4;
+		background-image:url(http://www-project.slac.stanford.edu/slac-home/webimages/barBack.gif);
+	}
+
+
+	/*"""""""" (MAIN) Items""""""""*/	
+	#qm0 a	
+	{	
+		padding:8px 15px 9px 15px;
+		margin:0px 15px 0px 0px;
+		color:#FFFFFF;
+		font-family:Verdana,Arial,Helvetica,sans-serif;
+		font-size:11px;
+		text-decoration:none;
+		font-weight:bold;
+	}
+
+
+	/*"""""""" (MAIN) Hover State""""""""*/	
+	#qm0 a:hover	
+	{	
+		color:#F1F1E7;
+	}
+
+
+	/*"""""""" (MAIN) Hover State - (duplicated for pure CSS)""""""""*/	
+	#qm0 li:hover>a	
+	{	
+		color:#F1F1E7;
+	}
+
+
+	/*"""""""" (SUB) Container""""""""*/	
+	#qm0 div, #qm0 ul	
+	{	
+		width:auto;
+		padding:0px 0px 3px 0px;
+		margin:0px 0px 0px 15px;
+		background-color:transparent;
+		background-image:none;
+		border-width:0px;
+		border-style:none;
+		border-color:transparent;
+	}
+
+
+	/*"""""""" (SUB) Items""""""""*/	
+	#qm0 div a, #qm0 ul a	
+	{	
+		width:auto;
+		padding:4px 5px 4px 5px;
+		margin:0px;
+		background-color:transparent;
+		color:#000000;
+		font-size:11px;
+		font-weight:normal;
+		border-width:1px 0px 0px 0px;
+		border-style:solid;
+		border-color:#EAF2F5;
+	}
+
+
+	/*"""""""" (SUB) Hover State""""""""*/	
+	#qm0 div a:hover	
+	{	
+		background-color:#D6EBF0;
+		color:#000000;
+	}
+
+
+	/*"""""""" (SUB) Hover State - (duplicated for pure CSS)""""""""*/	
+	#qm0 ul li:hover>a	
+	{	
+		background-color:#D6EBF0;
+		color:#000000;
+	}
+
+
+	/*"""""""" (SUB) Active State""""""""*/	
+	body #qm0 div .qmactive, body #qm0 div .qmactive:hover	
+	{	
+		background-color:#E4E4E4;
+		color:#333333;
+		text-decoration:none;
+	}
+
+
+	/*"""""""" Individual Titles""""""""*/	
+	#qm0 .qmtitle	
+	{	
+		margin:2px 5px 4px 5px;
+		color:#111111;
+		font-family:Arial;
+		font-size:13px;
+		font-weight:bold;
+	}
+
+
+	/*"""""""" Individual Horizontal Dividers""""""""*/	
+	#qm0 .qmdividerx	
+	{	
+		border-top-width:1px;
+		margin:5px 4px 5px 4px;
+		border-color:#28478D;
+	}
+
+
+	/*"""""""" (main) Rounded Items""""""""*/	
+	#qm0 .qmritem span	
+	{	
+		border-color:#666666;
+		background-color:#EEEEEE;
+	}
+
+
+	/*"""""""" (main) Rounded Items Content""""""""*/	
+	#qm0 .qmritemcontent	
+	{	
+		padding:0px 0px 0px 4px;
+	}
+
+
+	/*"""""""" (sub) Rounded Items""""""""*/	
+	#qm0 div .qmritem span	
+	{	
+		border-color:#666666;
+		background-color:#EEEEEE;
+	}
+
+
+	/*"""""""" (sub) Rounded Items Content""""""""*/	
+	#qm0 div .qmritemcontent	
+	{	
+		padding:0px 0px 0px 4px;
+	}
+
+
+
+
+	/* QuickMenu 1 */
+
+	/*"""""""" (MAIN) Container""""""""*/	
+	#qm1	
+	{	
+		width:163px;
+		margin:0px 0px 8px 8px;
+		background-color:#FFFFFF;
+	}
+
+
+	/*"""""""" (MAIN) Items""""""""*/	
+	#qm1 a	
+	{	
+		padding:4px 2px 4px 14px;
+		color:#104E68;
+		font-family:Verdana,Arial,Helvetica,sans-serif;
+		font-size:11px;
+		text-decoration:none;
+		border-width:0px 0px 1px 0px;
+		border-style:solid;
+		border-color:#C7DAE2;
+	}
+
+
+	/*"""""""" (MAIN) Hover State""""""""*/	
+	#qm1 a:hover	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" (MAIN) Hover State - (duplicated for pure CSS)""""""""*/	
+	#qm1 li:hover>a	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" (MAIN) Active State""""""""*/	
+	body #qm1 .qmactive, body #qm1 .qmactive:hover	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" (SUB) Container""""""""*/	
+	#qm1 div, #qm1 ul	
+	{	
+		width:auto;
+		margin:0px 0px 0px -1px;
+		background-color:#B6DBE4;
+	}
+
+
+	/*"""""""" (SUB) Items""""""""*/	
+	#qm1 div a, #qm1 ul a	
+	{	
+		padding:4px 14px 4px 14px;
+		background-color:transparent;
+		color:#000000;
+		font-size:11px;
+		border-width:0px 0px 1px 0px;
+		border-style:solid;
+		border-color:#EAF2F5;
+	}
+
+
+	/*"""""""" (SUB) Hover State""""""""*/	
+	#qm1 div a:hover	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" (SUB) Hover State - (duplicated for pure CSS)""""""""*/	
+	#qm1 ul li:hover>a	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" (SUB) Active State""""""""*/	
+	body #qm1 div .qmactive, body #qm1 div .qmactive:hover	
+	{	
+		background-color:#D6EBF0;
+	}
+
+
+	/*"""""""" Individual Titles""""""""*/	
+	#qm1 .qmtitle	
+	{	
+		padding:3px 3px 3px 5px;
+		margin:8px 0px 0px 0px;
+		background-image:url(http://www-project.slac.stanford.edu/slac-home/webimages/navGroupBack.gif);
+		color:#111111;
+		font-family:Verdana,Arial,Helvetica,sans-serif;
+		font-size:11px;
+	}
+
+
+	/*"""""""" Individual Vertical Dividers""""""""*/	
+	#qm1 .qmdividery	
+	{	
+		border-left-width:1px;
+		height:15px;
+		margin:4px 2px 0px 2px;
+		border-color:#AAAAAA;
+	}
+
+
+	/*"""""""" (main) Rounded Items""""""""*/	
+	#qm1 .qmritem span	
+	{	
+		border-color:#DADADA;
+		background-color:#F7F7F7;
+	}
+
+
+	/*"""""""" (main) Rounded Items Content""""""""*/	
+	#qm1 .qmritemcontent	
+	{	
+		padding:0px 0px 0px 4px;
+	}
+
+
+

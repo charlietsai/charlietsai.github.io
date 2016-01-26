@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>SUNCAT Center for Interface Science and Catalysis</title>
+    <link rel="stylesheet" type="text/css" href="MenuStyling.css" />
+    <script type="text/javascript" src="MenuBehavior.js"></script> 
+    <link rel="stylesheet" type="text/css" href="style2.css" />
+</head>
+<body>
+	﻿<div class="header" style="margin-top:0px;padding-top:0px;">
+    <a href="http://suncat.slac.stanford.edu/"><img src="images/SUNCAT-faculty-Logo.gif" title="SUNCAT Logo - SLAC" alt="SUNCAT Logo" ></a>
+</div>
+
+<!-- Start Top Navigation Menu -->
+<ul id="qm0" class="qmmc">
+	<li></li>
+</ul>
+<!-- End Top Navigation Menu -->
+  
+    <div class="body_content">
+	    <div class="navigation">
+	    	﻿<!-- Start Left Navigation Menu -->
+<ul id="qm1" class="qmmc">
+	<li><a href="profile.shtml">SUNCAT Home</a></li>
+	<li><a href="reports.shtml">Recent Reports & Talks</a></li>
+	<li><a href="#">Link 1</a></li>
+	<li><a href="#">Link 2</a></li>
+	<li><a href="#">Link 3</a></li>
+</ul>
+
+<!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click (options: 'all' * 'all-always-open' * 'main' * 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
+<script type="text/javascript">qm_create(1,true,0,500,false,false,false,false,false);</script>
+
+<!-- End Left Navigation Menu -->
+
+
+	    </div>	    
+
+        <div class="page_content home">
+
+
+
+
+
+		
+		<div style="border-bottom:solid 0px #CCCCCC;padding-bottom:20px;margin-bottom:30px;">
+			
+			<div class="contactBlockOutterDiv">
+				<div class="contactHeader">HEADER 1 GOES HERE</div>
+				<div style="padding-top:10px;">
+					<ul>
+						<li>Item 1 goes here.</li>
+						<li>Item 2 goes here.</li>
+						<li>Item 3 goes here.</li>
+						<li>Item 4 goes here.</li>
+					</ul>
+				</div>
+			</div>
+
+
+			<div class="contactBlockOutterDiv">
+				<div class="contactHeader">HEADER 2 GOES HERE</div>
+				<div style="padding-top:10px;">
+					<ul>
+						<li>Item 1 goes here.</li>
+						<li>Item 2 goes here.</li>
+						<li>Item 3 goes here.</li>
+						<li>Item 4 goes here.</li>
+						<li>Item 5 goes here.</li>
+						<li>Item 6 goes here.</li>
+						<li>Item 7 goes here.</li>
+						<li>Item 8 goes here.</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="contactBlockOutterDiv">
+				<div class="contactHeader">HEADER 3 GOES HERE</div>
+				<div style="padding-top:10px;">
+					<ul>
+						<li>Item 1 goes here.</li>
+						<li>Item 2 goes here.</li>
+						<li>Item 3 goes here.</li>
+						<li>Item 4 goes here.</li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+		
+
+
+		
+	    </div>
+	    
+    	<div class="contactRightHandNavOutterDiv">
+
+    		<div class="contactRightHandHeader">CONTACT INFORMATION</div>
+
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Email: un@slac.stanford.edu
+			</div>
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Phone: ext: 1234
+			</div>
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Fax: 650-123-1234
+			</div>
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Office Location: Rm 101 - Bld 40.
+			</div>
+			<div class="contactRightHandItemDiv">
+				<img src="images/bullet.gif" class="contactItemBullet" alt="bullet">Mailing Address: 
+			</div>
+		</div>
+
+    </div>
+    
+    
+    ﻿<br style="clear:both;padding-top:30px;" />
+<!-- SLAC Global Footer -->
+<div style="text-align:left;padding-left:7px;padding-top:0px;padding-bottom:10px;"><a href="http://www.stanford.edu" target="_blank"><img src="images/stanford-logo-leftnav.gif"></a></div>
+
+<script type="text/javascript">
+<!--
+    slac_search_and_links = "no";
+    search_default = "people";
+    custom_search = "no";
+    custom_search_type = "";
+    custom_search_label = "";
+    slac_footer = "yes";
+//-->
+</script>
+<script type="text/javascript" src="http://www-project.slac.stanford.edu/centralNav/slac_global_090212.js"></script>
+
+
+<div class="footer">
+    <a href="http://www6.slac.stanford.edu/Privacy.aspx">Privacy Statement</a>    
+</div>
+ 
+</body>
+</html>
